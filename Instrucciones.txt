@@ -2,4 +2,5 @@
 2. ejecutar en  terminal :
  pip install selenium 
  pip install webdriver-manager
-3. ejecutar archivo main.py
+
+3. ejecutar archivo main.py o el archivo Engine.py, que usa la base de main.py y ademas guarda en un archivo .csv
