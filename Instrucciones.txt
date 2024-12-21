@@ -1,0 +1,5 @@
+1. tener python
+2. ejecutar en  terminal :
+ pip install selenium 
+ pip install webdriver-manager
+3. ejecutar archivo main.py
