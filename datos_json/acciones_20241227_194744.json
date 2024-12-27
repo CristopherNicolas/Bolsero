@@ -1,0 +1,266 @@
+{
+    "TECB": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:43",
+            "Precio (CLP)": "53,93",
+            "Volumen": "170",
+            "Monto": "9"
+        }
+    ],
+    "CGE": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:43",
+            "Precio (CLP)": "358,23",
+            "Volumen": "35.639",
+            "Monto": "12.567"
+        }
+    ],
+    "GOOGCL": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:43",
+            "Precio (CLP)": "192.853,00",
+            "Volumen": "43",
+            "Monto": "8.293"
+        }
+    ],
+    "QUAL": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:43",
+            "Precio (CLP)": "180,00",
+            "Volumen": "51",
+            "Monto": "9"
+        }
+    ],
+    "IANSA": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:43",
+            "Precio (CLP)": "25,21",
+            "Volumen": "352.897",
+            "Monto": "8.845"
+        }
+    ],
+    "CENCOMALLS": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:43",
+            "Precio (CLP)": "1.556,00",
+            "Volumen": "929.366",
+            "Monto": "1.446.946"
+        }
+    ],
+    "ANDINA-A": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "2.399,20",
+            "Volumen": "101.997",
+            "Monto": "243.042"
+        }
+    ],
+    "QUINENCO": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "3.260,00",
+            "Volumen": "492.622",
+            "Monto": "1.584.299"
+        }
+    ],
+    "LAS CONDES": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "11.055,00",
+            "Volumen": "2.952",
+            "Monto": "32.391"
+        }
+    ],
+    "SALFACORP": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "563,00",
+            "Volumen": "882.564",
+            "Monto": "491.530"
+        }
+    ],
+    "EMBONOR-B": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "1.198,50",
+            "Volumen": "50.220",
+            "Monto": "60.174"
+        }
+    ],
+    "VAPORES": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "53,50",
+            "Volumen": "36.161.800",
+            "Monto": "1.934.383"
+        }
+    ],
+    "CENCOSUD": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "2.200,00",
+            "Volumen": "1.501.323",
+            "Monto": "3.302.612"
+        }
+    ],
+    "FALABELLA": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "3.475,00",
+            "Volumen": "1.250.424",
+            "Monto": "4.347.274"
+        }
+    ],
+    "SQM-B": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "36.948,00",
+            "Volumen": "136.496",
+            "Monto": "5.055.295"
+        }
+    ],
+    "CCU": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "5.760,00",
+            "Volumen": "376.812",
+            "Monto": "2.175.226"
+        }
+    ],
+    "CHILE": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "113,00",
+            "Volumen": "56.725.892",
+            "Monto": "6.428.152"
+        }
+    ],
+    "BSANTANDER": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "47,30",
+            "Volumen": "51.010.744",
+            "Monto": "2.413.192"
+        }
+    ],
+    "ENELCHILE": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "57,00",
+            "Volumen": "59.961.282",
+            "Monto": "3.417.656"
+        }
+    ],
+    "LTM": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "13,68",
+            "Volumen": "170.521.783",
+            "Monto": "2.341.735"
+        }
+    ],
+    "ENELAM": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "87,00",
+            "Volumen": "29.659.447",
+            "Monto": "2.583.579"
+        }
+    ],
+    "ORO BLANCO": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "4,15",
+            "Volumen": "903.919.043",
+            "Monto": "3.751.266"
+        }
+    ],
+    "MASISA": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "13,66",
+            "Volumen": "2.580.344",
+            "Monto": "35.401"
+        }
+    ],
+    "AMZNCL": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "221.628,00",
+            "Volumen": "592",
+            "Monto": "130.676"
+        }
+    ],
+    "MSFTCL": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "426.081,00",
+            "Volumen": "288",
+            "Monto": "122.805"
+        }
+    ],
+    "IYW": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "161,61",
+            "Volumen": "53",
+            "Monto": "9"
+        }
+    ],
+    "ABC": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "9,19",
+            "Volumen": "2.195.554",
+            "Monto": "20.142"
+        }
+    ],
+    "PARAUCO": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "1.556,50",
+            "Volumen": "861.026",
+            "Monto": "1.349.821"
+        }
+    ],
+    "NVDACL": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "134.230,00",
+            "Volumen": "1.656",
+            "Monto": "223.647"
+        }
+    ],
+    "TSLACL": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "432.337,00",
+            "Volumen": "221",
+            "Monto": "95.722"
+        }
+    ],
+    "PFECL": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "26.500,00",
+            "Volumen": "317",
+            "Monto": "8.400"
+        }
+    ],
+    "FOSFOROS": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "450,00",
+            "Volumen": "227.016",
+            "Monto": "102.157"
+        }
+    ],
+    "ENJOY": [
+        {
+            "Fecha y Hora": "2024-12-27 19:47:44",
+            "Precio (CLP)": "0,25",
+            "Volumen": "196.850.815",
+            "Monto": "48.585"
+        }
+    ]
+}

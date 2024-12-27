@@ -4,3 +4,5 @@
  pip install webdriver-manager
 
 3. ejecutar archivo main.py o el archivo Engine.py, que usa la base de main.py y ademas guarda en un archivo .csv
+
+4. una vez creado el archivo .csv por engine.py puedes utilizar AnalizarCsv.py para mostrar mejor los datos usando pandas

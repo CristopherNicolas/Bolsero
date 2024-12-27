@@ -263,3 +263,416 @@ JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDy
 JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 2697 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 162 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
 JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 286 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1734763344106	geckodriver	INFO	Listening on 127.0.0.1:52780
+1734763347127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofilejXZLdk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1734763347409	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1734763347802	Marionette	INFO	Listening on port 52794
+Read port: 52794
+1734763347910	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 3169 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 4579 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 7103 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 650 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 3750 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 6755 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1734766435473	geckodriver	INFO	Listening on 127.0.0.1:53355
+1734766438538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofiletFjSKP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1734766439175	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1734766439631	Marionette	INFO	Listening on port 53366
+Read port: 53366
+1734766439762	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 5484 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 2229 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 1675 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 6148 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 6103 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1734766571345	geckodriver	INFO	Listening on 127.0.0.1:53466
+1734766574389	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofileBpPe4l"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1734766574644	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1734766575011	Marionette	INFO	Listening on port 53476
+Read port: 53476
+1734766575119	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 4087 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Y647MRPM4Z&cx=c&_slc=1, line 587: Script terminated by timeout at:
+h.Wh@https://www.googletagmanager.com/gtag/js?id=G-Y647MRPM4Z&cx=c&_slc=1:587:30
+get@https://www.googletagmanager.com/gtag/js?id=G-Y647MRPM4Z&cx=c&_slc=1:585:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-Y647MRPM4Z&cx=c&_slc=1:585:87
+h.Bl/c/<@https://www.googletagmanager.com/gtag/js?id=G-Y647MRPM4Z&cx=c&_slc=1:585:410
+
+1734766588650	Marionette	INFO	Stopped listening on port 53476
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1734821799049	geckodriver	INFO	Listening on 127.0.0.1:55607
+1734821802116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofile3hLxFQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1734821802773	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1734821803241	Marionette	INFO	Listening on port 55625
+Read port: 55625
+1734821803373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.bolsadesantiago.com/assets/lib/kendo-ui/js/messages/kendo.messages.es-CL.min.js, line 25: TypeError: window.kendo is undefined
+JavaScript error: https://www.bolsadesantiago.com/assets/lib/kendo-ui/js/cultures/kendo.culture.es-CL.min.js, line 25: ReferenceError: kendo is not defined
+JavaScript error: https://www.bolsadesantiago.com/assets/lib/angular/angular.min.js, line 2: Error: [$injector:modulerr] http://errors.angularjs.org/$injector/modulerr?p0=app&p1=%5B%24injector%3Amodulerr%5D%20http%3A%2F%2Ferrors.angularjs.org%2F%24injector%2Fmodulerr%3Fp0%3DbuscadorModule%26p1%3D%255B%2524injector%253Amodulerr%255D%2520http%253A%252F%252Ferrors.angularjs.org%252F%2524injector%252Fmodulerr%253Fp0%253Dkendo.directives%2526p1%253D%25255B%252524injector%25253Anomod%25255D%252520http%25253A%25252F%25252Ferrors.angularjs.org%25252F%252524injector%25252Fnomod%25253Fp0%25253Dkendo.directives%25250AF%25252F%25253C%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A2%25253A168%25250AMe%25252F%25253C%25252F%25253C%25252F%25253C%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A21%25253A503%25250Ab%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A21%25253A25%25250AMe%25252F%25253C%25252F%25253C%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A21%25253A277%25250Afb%25252Fg%25252F%25253C%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A38%25253A201%25250Ar%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A3%25253A76%25250Ag%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A38%25253A50%25250Afb%25252Fg%25252F%25253C%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A38%25253A233%25250Ar%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A3%25253A76%25250Ag%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A38%25253A50%25250Afb%25252Fg%25252F%25253C%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A38%25253A233%25250Ar%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A3%25253A76%25250Ag%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A38%25253A50%25250Afb%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A42%25253A154%25250Ac%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A17%25253A57%25250AWc%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A17%25253A370%25250AEe%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A16%25253A45%25250A%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fangular%25252Fangular.min.js%25253A346%25253A119%25250Ae%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fjquery%25252Fdist%25252Fjquery.min.js%25253A2%25253A29453%25250ADeferred%25252Fthen%25252Fl%25252F%25253C%25252Ft%25253C%252540https%25253A%25252F%25252Fwww.bolsadesantiago.com%25252Fassets%25252Flib%25252Fjquery%25252Fdist%25252Fjquery.min.js%25253A2%25253A29755%25250A%250AF%252F%253C%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fangular%252Fangular.min.js%253A2%253A168%250Afb%252Fg%252F%253C%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fangular%252Fangular.min.js%253A38%253A491%250Ar%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fangular%252Fangular.min.js%253A3%253A76%250Ag%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fangular%252Fangular.min.js%253A38%253A50%250Afb%252Fg%252F%253C%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fangular%252Fangular.min.js%253A38%253A233%250Ar%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fangular%252Fangular.min.js%253A3%253A76%250Ag%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fangular%252Fangular.min.js%253A38%253A50%250Afb%252Fg%252F%253C%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fangular%252Fangular.min.js%253A38%253A233%250Ar%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fangular%252Fangular.min.js%253A3%253A76%250Ag%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fangular%252Fangular.min.js%253A38%253A50%250Afb%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fangular%252Fangular.min.js%253A42%253A154%250Ac%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fangular%252Fangular.min.js%253A17%253A57%250AWc%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fangular%252Fangular.min.js%253A17%253A370%250AEe%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fangular%252Fangular.min.js%253A16%253A45%250A%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fangular%252Fangular.min.js%253A346%253A119%250Ae%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fjquery%252Fdist%252Fjquery.min.js%253A2%253A29453%250ADeferred%252Fthen%252Fl%252F%253C%252Ft%253C%2540https%253A%252F%252Fwww.bolsadesantiago.com%252Fassets%252Flib%252Fjquery%252Fdist%252Fjquery.min.js%253A2%253A29755%250A%0AF%2F%3C%40https%3A%2F%2Fwww.bolsadesantiago.com%2Fassets%2Flib%2Fangular%2Fangular.min.js%3A2%3A168%0Afb%2Fg%2F%3C%40https%3A%2F%2Fwww.bolsadesantiago.com%2Fassets%2Flib%2Fangular%2Fangular.min.js%3A38%3A491%0Ar%40https%3A%2F%2Fwww.bolsadesantiago.com%2Fassets%2Flib%2Fangular%2Fangular.min.js%3A3%3A76%0Ag%40https%3A%2F%2Fwww.bolsadesantiago.com%2Fassets%2Flib%2Fangular%2Fangular.min.js%3A38%3A50%0Afb%2Fg%2F%3C%40https%3A%2F%2Fwww.bolsadesantiago.com%2Fassets%2Flib%2Fangular%2Fangular.min.js%3A38%3A233%0Ar%40https%3A%2F%2Fwww.bolsadesantiago.com%2Fassets%2Flib%2Fangular%2Fangular.min.js%3A3%3A76%0Ag%40https%3A%2F%2Fwww.bolsadesantiago.com%2Fassets%2Flib%2Fangular%2Fangular.min.js%3A38%3A50%0Afb%40https%3A%2F%2Fwww.bolsadesantiago.com%2Fassets%2Flib%2Fangular%2Fangular.min.js%3A42%3A154%0Ac%40https%3A%2F%2Fwww.bolsadesantiago.com%2Fassets%2Flib%2Fangular%2Fangular.min.js%3A17%3A57%0AWc%40https%3A%2F%2Fwww.bolsadesantiago.com%2Fassets%2Flib%2Fangular%2Fangular.min.js%3A17%3A370%0AEe%40https%3A%2F%2Fwww.bolsadesantiago.com%2Fassets%2Flib%2Fangular%2Fangular.min.js%3A16%3A45%0A%40https%3A%2F%2Fwww.bolsadesantiago.com%2Fassets%2Flib%2Fangular%2Fangular.min.js%3A346%3A119%0Ae%40https%3A%2F%2Fwww.bolsadesantiago.com%2Fassets%2Flib%2Fjquery%2Fdist%2Fjquery.min.js%3A2%3A29453%0ADeferred%2Fthen%2Fl%2F%3C%2Ft%3C%40https%3A%2F%2Fwww.bolsadesantiago.com%2Fassets%2Flib%2Fjquery%2Fdist%2Fjquery.min.js%3A2%3A29755%0A
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 6874 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Y647MRPM4Z&cx=c&_slc=1, line 587: Script terminated by timeout at:
+h.Wh@https://www.googletagmanager.com/gtag/js?id=G-Y647MRPM4Z&cx=c&_slc=1:587:30
+get@https://www.googletagmanager.com/gtag/js?id=G-Y647MRPM4Z&cx=c&_slc=1:585:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-Y647MRPM4Z&cx=c&_slc=1:585:87
+h.Bl/c/<@https://www.googletagmanager.com/gtag/js?id=G-Y647MRPM4Z&cx=c&_slc=1:585:410
+
+1734821906171	Marionette	INFO	Stopped listening on port 55625
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1734937820804	geckodriver	INFO	Listening on 127.0.0.1:56808
+1734937823835	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofile0SkwOF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1734937824519	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1734937824991	Marionette	INFO	Listening on port 56818
+Read port: 56818
+1734937825137	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 1412 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://validate.perfdrive.com/?ssa=338ee232-ba91-447e-b21a-ebaccedda259&ssb=54398237570&ssc=https%3A%2F%2Fwww.bolsadesantiago.com%2Fprincipales_acciones&ssi=389a1c5b-bjuj-485d-940c-fc497fa6111d&ssk=support@shieldsquare.com&ssm=97422056413285056166932118207189&ssn=f4a423ec6140350e7f4daab2d9f62a1cb69e58f4caae-a89e-49b8-b27913&sso=910c4809-c663bfbe49075e0096038c51cdd7f9f7ba6a1328b0daeb75&ssp=30922662791734989969173490641066479&ssq=66919073788127752435837830597156272928292&ssr=MTkwLjIxNS4xNi4xNTM=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64;%20rv:133.0)%20Gecko/20100101%20Firefox/133.0&ssu=&ssv=&ssw=&ssx=W10=" ({})
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 5094 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-Y647MRPM4Z&cx=c&_slc=1, line 586: Script terminated by timeout at:
+h.Wh@https://www.googletagmanager.com/gtag/js?id=G-Y647MRPM4Z&cx=c&_slc=1:586:487
+get@https://www.googletagmanager.com/gtag/js?id=G-Y647MRPM4Z&cx=c&_slc=1:585:119
+stop@https://www.googletagmanager.com/gtag/js?id=G-Y647MRPM4Z&cx=c&_slc=1:585:87
+h.Bl/c/<@https://www.googletagmanager.com/gtag/js?id=G-Y647MRPM4Z&cx=c&_slc=1:585:410
+
+1734938006083	Marionette	INFO	Stopped listening on port 56818
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1734938010051	geckodriver	INFO	Listening on 127.0.0.1:57025
+1734938013075	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofile1pXxxO"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1734938013349	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1734938013713	Marionette	INFO	Listening on port 57035
+Read port: 57035
+1734938013821	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 1852 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/pyMTr0nkmN6cL6IgtDyOeR9sHSfyHchE6TDXG14OT6s.js line 2 > eval line 1830 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1734938150550	geckodriver	INFO	Listening on 127.0.0.1:57226
+1734938153577	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofileSmASMZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1734938153839	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1734938154206	Marionette	INFO	Listening on port 57236
+Read port: 57236
+1734938154318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+1735001186255	geckodriver	INFO	Listening on 127.0.0.1:54216
+1735001189300	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofileqJJEZ9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735001189980	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735001190441	Marionette	INFO	Listening on port 54234
+Read port: 54234
+1735001190584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 7283 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 4860 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 1794 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 2575 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 2361 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 4845 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 6457 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 1401 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 2455 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 6655 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 2171 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 3709 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 6252 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 3283 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 1342 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 1245 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/SpkypshKgSogYQ2K2Rf8n1LXP_m6U7d6Y-cIlE_Kkgg.js line 2 > eval line 7620 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1735014475114	geckodriver	INFO	Listening on 127.0.0.1:65247
+1735014478151	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofilezYdEh2"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735014478684	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735014479138	Marionette	INFO	Listening on port 65257
+Read port: 65257
+1735014479270	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+1735014589677	Marionette	INFO	Stopped listening on port 65257
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1735099785910	geckodriver	INFO	Listening on 127.0.0.1:61636
+1735099788934	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofilewCSGjT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735099789573	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735099790024	Marionette	INFO	Listening on port 61650
+Read port: 61650
+1735099790154	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1735099830408	Marionette	INFO	Stopped listening on port 61650
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:107:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:919:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:824:38
+
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+console.warn: services.settings: main/search-config-v2 sync interrupted by shutdown
+console.warn: services.settings: main/translations-wasm sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/sites-classification getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+1735166372479	geckodriver	INFO	Listening on 127.0.0.1:57964
+1735166375521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofilepHxmf8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735166376154	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735166376597	Marionette	INFO	Listening on port 57974
+Read port: 57974
+1735166376730	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1735166399506	Marionette	INFO	Stopped listening on port 57974
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 47: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1735338334986	geckodriver	INFO	Listening on 127.0.0.1:51933
+1735338338011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofileVQa8Xg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735338338456	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735338338973	Marionette	INFO	Listening on port 51944
+Read port: 51944
+1735338339138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 7719 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 4661 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 297 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 144 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 5793 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 5042 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 6569 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 3571 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 6603 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 7498 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 3079 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 945 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 7462 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1735338929823	geckodriver	INFO	Listening on 127.0.0.1:52582
+1735338932846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofileO1yEZY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735338933124	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735338933502	Marionette	INFO	Listening on port 52592
+Read port: 52592
+1735338933608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1735338999119	geckodriver	INFO	Listening on 127.0.0.1:52629
+1735339002170	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofileKUBPl4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735339002416	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735339002779	Marionette	INFO	Listening on port 52639
+Read port: 52639
+1735339002930	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1735339032833	geckodriver	INFO	Listening on 127.0.0.1:52669
+1735339035866	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofilegDeJIF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735339036113	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735339036481	Marionette	INFO	Listening on port 52679
+Read port: 52679
+1735339036634	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1735339125117	geckodriver	INFO	Listening on 127.0.0.1:52712
+1735339128140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofile4goXlm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735339128384	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735339128750	Marionette	INFO	Listening on port 52722
+Read port: 52722
+1735339128897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1735339152183	geckodriver	INFO	Listening on 127.0.0.1:52752
+1735339155212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofileHqvjqe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735339155458	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735339155830	Marionette	INFO	Listening on port 52762
+Read port: 52762
+1735339155940	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1735339226258	geckodriver	INFO	Listening on 127.0.0.1:52797
+1735339229294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofileXrFLhu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735339229544	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735339229914	Marionette	INFO	Listening on port 52811
+Read port: 52811
+1735339230025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1735339244636	geckodriver	INFO	Listening on 127.0.0.1:52840
+1735339247661	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofiles8c2cA"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735339247906	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735339248271	Marionette	INFO	Listening on port 52850
+Read port: 52850
+1735339248424	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1735339420133	geckodriver	INFO	Listening on 127.0.0.1:52889
+1735339423145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofilexB8ioS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735339423393	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735339423796	Marionette	INFO	Listening on port 52900
+Read port: 52900
+1735339423900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 4932 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 6248 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 503 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 4127 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 2711 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 896 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 968 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 6614 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 4633 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1735340940360	geckodriver	INFO	Listening on 127.0.0.1:53167
+1735340943382	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofileA9GuKD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735340943634	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735340944014	Marionette	INFO	Listening on port 53177
+Read port: 53177
+1735340944133	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://fundingchoicesmessages.google.com/i/124506296?ers=3, line 61: Script terminated by timeout at:
+_.Ub@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.es.IMz57yc5hVw.es5.O/am=DAY/d=1/rs=AJlcJMx3aG6tMu9D_bYO6Fkn1IPZ_IHSNg/m=kernel_loader,loader_js_executable:61:423
+_.Yb@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.es.IMz57yc5hVw.es5.O/am=DAY/d=1/rs=AJlcJMx3aG6tMu9D_bYO6Fkn1IPZ_IHSNg/m=kernel_loader,loader_js_executable:61:79
+_.ic@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.es.IMz57yc5hVw.es5.O/am=DAY/d=1/rs=AJlcJMx3aG6tMu9D_bYO6Fkn1IPZ_IHSNg/m=kernel_loader,loader_js_executable:65:159
+_.kd@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.es.IMz57yc5hVw.es5.O/am=DAY/d=1/rs=AJlcJMx3aG6tMu9D_bYO6Fkn1IPZ_IHSNg/m=kernel_loader,loader_js_executable:75:888
+RM.prototype.run/<@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.es.IMz57yc5hVw.es5.O/am=DAY/d=1/rs=AJlcJMx3aG6tMu9D_bYO6Fkn1IPZ_IHSNg/m=kernel_loader,loader_js_executable:478:869
+vc@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.es.IMz57yc5hVw.es5.O/am=DAY/d=1/rs=AJlcJMx3aG6tMu9D_bYO6Fkn1IPZ_IHSNg/m=kernel_loader,loader_js_executable:70:266
+xc/this.next@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.es.IMz57yc5hVw.es5.O/am=DAY/d=1/rs=AJlcJMx3aG6tMu9D_bYO6Fkn1IPZ_IHSNg/m=kernel_loader,loader_js_executable:71:91
+b@/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.es.IMz57yc5hVw.es5.O/am=DAY/d=1/rs=AJlcJMx3aG6tMu9D_bYO6Fkn1IPZ_IHSNg/m=kernel_loader,loader_js_executable:71:331
+
+console.error: ({})
+console.error: ({})
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 2570 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 7114 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: WindowsJumpLists: "Failed to fetch favicon for " "http://validate.perfdrive.com/?ssa=ebde12c6-7aa4-4571-ab8d-072109791c08&ssb=93643287779&ssc=https%3A%2F%2Fwww.bolsadesantiago.com%2Fprincipales_acciones&ssi=51124bfc-bjuj-4355-8a57-828ac537f007&ssk=support@shieldsquare.com&ssm=90987730251173124199978831370342&ssn=34bab504dc7224901f797d368b5407b346902dbc97b2-f327-48ed-a02986&sso=b3351f03-1c09e9959f06045088bddc7f7396dbce1005e79061eeedaa&ssp=36997273391735387804173531068105404&ssq=08162304095123797827340946712092325171410&ssr=MTkwLjIxNS4xNi4xNTM=&sst=Mozilla/5.0%20(Windows%20NT%2010.0;%20Win64;%20x64;%20rv:133.0)%20Gecko/20100101%20Firefox/133.0&ssu=&ssv=&ssw=&ssx=W10=" ({})
+1735341138604	geckodriver	INFO	Listening on 127.0.0.1:53335
+1735341141634	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofiletKf9gm"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735341141884	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735341142260	Marionette	INFO	Listening on port 53345
+Read port: 53345
+1735341142370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 2804 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1735341325718	geckodriver	INFO	Listening on 127.0.0.1:53437
+1735341328746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofilehRxxNM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735341328990	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735341329373	Marionette	INFO	Listening on port 53452
+Read port: 53452
+1735341329487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 120 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1735341686039	geckodriver	INFO	Listening on 127.0.0.1:53541
+1735341689084	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofileDwih1T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735341689333	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735341689724	Marionette	INFO	Listening on port 53554
+Read port: 53554
+1735341689830	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 5781 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js, line 411: Script terminated by timeout at:
+Z<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:411:415
+T<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:149:288
+P</p<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:280:469
+e<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:372:107
+L</this.next@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:590:167
+T</l<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:147:356
+T<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:147:249
+T<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:174:324
+P<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:280:432
+P</p<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:335:459
+e<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:372:107
+L</this.next@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:590:167
+T</l<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:147:356
+T<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:147:249
+T<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:174:324
+P<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:335:337
+X</d<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:35:158
+e<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:372:107
+L</this.next@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:590:167
+T</l<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:147:356
+T<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:147:249
+T<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:174:324
+X<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:35:63
+T</T<@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:156:208
+AN@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:754:178
+a@https://www.gstatic.com/recaptcha/releases/zIriijn3uj5Vpknvt_LnfNbF/recaptcha__es.js:245:252
+
+1735342070682	geckodriver	INFO	Listening on 127.0.0.1:53679
+1735342073704	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofileFloI2K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735342073959	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735342074339	Marionette	INFO	Listening on port 53689
+Read port: 53689
+1735342074443	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 2776 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 1748 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 218 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 6966 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 7733 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 5147 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 6431 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 5881 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1735342402761	geckodriver	INFO	Listening on 127.0.0.1:53863
+1735342405790	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\Cris\\AppData\\Local\\Temp\\rust_mozprofilexBU4AF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1735342406306	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1735342406688	Marionette	INFO	Listening on port 53873
+Read port: 53873
+1735342406790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sLtRHJ7WOIOXGkcIZ2bQW7l4DqClthgbj8pcU28k3kQ.js line 2 > eval line 7061 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
